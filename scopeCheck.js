@@ -17,3 +17,4 @@ function getUserDetails(user) {
 var abc = getUserDetails('nitesh');
 console.log(abc);
 // console.log(checkScope);
+// git test
